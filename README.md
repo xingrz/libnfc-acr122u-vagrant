@@ -6,7 +6,7 @@ libnfc-acr122u-vagrant
 ## 初衷
 
 - 对于初级用户来说，在 Linux 下编译配置 libnfc 是个不小的挑战
-- libnfc 对于 ACR-122U 需要[额外的配置步骤](setup.sh#19)
+- libnfc 对于 ACR-122U 需要[额外的配置步骤](setup.sh#L19)
 - 在 OS X 下，即使没有插入设备，pcscd 也会占用额外的系统资源
 - 需要一个更洁净的环境？
 
